@@ -1,0 +1,9 @@
+﻿body {
+  margin: 0;
+  font-family: system-ui, Arial, sans-serif;
+  background: #f7f7f7;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+button { padding: 8px 12px; cursor: pointer; }
+input { padding: 8px; border: 1px solid #ccc; border-radius: 4px; }

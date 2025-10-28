@@ -2,8 +2,7 @@
 
 // Por defecto apunta a localhost. Cambia si tu API está en otro host.
 // No se modifica la lógica de fetch/jwt: sigue usando '/api/...'
-const API_BASE = "http://localhost:3000";
-
+const API_BASE = "";
 export default function App() {
   const [email, setEmail] = useState("admin@example.com");
   const [password, setPassword] = useState("Admin123!");
